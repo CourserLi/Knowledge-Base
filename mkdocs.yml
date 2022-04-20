@@ -1,3 +1,5 @@
 site_name: My Docs
 theme:
   name: material
+  favicon: assets/images/favicon.ico
+  language: zh
