@@ -1,5 +1,56 @@
-site_name: My Docs
+site_name: Courser Li の 知识库
 theme:
   name: material
   favicon: assets/images/favicon.ico
   language: zh
+  font: false
+  features:
+    - navigation.tabs
+    - navigation.indexes
+    - navigation.top
+    - toc.integrate
+extra_css:
+  - stylesheets/extra.css
+nav:
+  - 网络安全:
+      - 网络安全/index.md
+      - CTF:
+          - 网络安全/CTF/index.md
+          - Crypto: 网络安全/CTF/Crypto/index.md
+          - Web: 网络安全/CTF/Web/index.md
+          - Binary: 网络安全/CTF/Binary/index.md
+      - Web 安全:
+          - 网络安全/Web 安全/index.md
+          - 代码审计: 网络安全/Web 安全/代码审计/index.md
+          - 内网渗透: 网络安全/Web 安全/内网渗透/index.md
+          - 漏洞分析: 网络安全/Web 安全/漏洞分析/index.md
+          - 应急响应: 网络安全/Web 安全/应急响应/index.md
+      - 二进制:
+        - 网络安全/二进制/index.md
+        - 基础知识:
+          - 网络安全/二进制/基础知识/index.md
+          - 汇编: 网络安全/二进制/基础知识/汇编.md
+        - 漏洞分析: 网络安全/二进制/漏洞分析/index.md
+      - 区块链: 网络安全/区块链/index.md
+  - 开发:
+      - 开发/index.md
+      - Kotlin: 开发/Kotlin/index.md
+      - Vue: 开发/Vue/index.md
+      - CoCos or Unity: 开发/CoCos or Unity/index.md
+  - 人工智能:
+      - 人工智能/index.md
+      - 机器学习: 人工智能/机器学习/index.md
+      - 大数据: 人工智能/大数据/index.md
+      - NLP: 人工智能/NLP/index.md
+  - 艺术:
+      - 艺术/index.md
+      - 设计:
+        - 艺术/设计/index.md
+        - 网页前端 UI / UX: 艺术/设计/网页前端 UIUX/index.md
+      - 音乐:
+        - 艺术/音乐/index.md
+        - Rap: 艺术/音乐/Rap/index.md
+  - 关于我:
+      - 关于我/index.md
+      - 技能: 关于我/技能/index.md
+      - 未来规划: 关于我/未来规划/index.md
