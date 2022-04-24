@@ -8,9 +8,10 @@ theme:
     - navigation.tabs
     - navigation.indexes
     - navigation.top
+    - navigation.expand
     - toc.integrate
-extra_css:
-  - stylesheets/extra.css
+# extra_css:
+#   - stylesheets/extra.css
 nav:
   - 网络安全:
       - 网络安全/index.md
