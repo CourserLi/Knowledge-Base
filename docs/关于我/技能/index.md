@@ -5,7 +5,7 @@
 这是我的全部网站：
 
 - [知识库](https://courserli.github.io/Knowledge-Base/)（本网站）
-- [个人云盘](https://pan.courserli.workers.dev/0:/)
+- [个人云盘](https://onedrive-vercel-index-seven-xi.vercel.app/zh-CN/)
 - [CSDN](https://blog.csdn.net/CourserLi)（ID：CourserLi）
 - [博客园](https://www.cnblogs.com/CourserLi/p/15801973.html)（ID：筱团）
 - [B 站](https://www.bilibili.com/)（ID：自由的筱团）
