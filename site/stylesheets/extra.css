@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Noto_Serif_SC';
+    src: url('..\\assets\\fonts\\Noto_Serif_SC\\NotoSerifSC-Regular.otf');
+}
+article p {
+    font-family: 'Noto_Serif_SC';
+}

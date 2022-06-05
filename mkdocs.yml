@@ -51,6 +51,7 @@ nav:
       - 音乐:
         - 艺术/音乐/index.md
         - Rap: 艺术/音乐/Rap/index.md
+        - AI 创作: 艺术/音乐/AI 创作/index.md
   - 关于我:
       - 关于我/index.md
       - 技能: 关于我/技能/index.md
