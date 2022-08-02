@@ -8,6 +8,7 @@
 - [个人云盘](https://onedrive-vercel-index-seven-xi.vercel.app/zh-CN/)
 - [CSDN](https://blog.csdn.net/CourserLi)（ID：CourserLi）
 - [博客园](https://www.cnblogs.com/CourserLi/p/15801973.html)（ID：筱团）
+- [简书](https://www.jianshu.com/u/4efd326c5fe2)（ID：筱团）
 - [B 站](https://www.bilibili.com/)（ID：自由的筱团）
 
 
